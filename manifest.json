@@ -1,0 +1,9 @@
+{
+  "name": "TabSize tab-width extension",
+  "version": "1.0.0",
+  "description": "For change width of the tab character in Pull/Merge Requests on GitHub/Gitlab/BitBucket",
+  "manifest_version": 2,
+  "icons": {
+    "128": "icon128.png"
+  }
+}
