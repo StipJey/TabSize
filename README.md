@@ -1,4 +1,4 @@
-# TabSize — Chrome extension for change width of the tab character in Pull/Merge Requests on GitHub/Gitlab/BitBucket
+# TabSize — Chrome extension for setting custom tab widths in Pull/Merge Requests on GitHub/Gitlab/BitBucket
 
 This extension will allow you to change the size of the tab character.
 Suitable for any sites, including GitLab, GitHub, BitBucket and others.
